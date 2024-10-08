@@ -1,0 +1,55 @@
+{
+    "folders": [
+        {
+            "name": "Project",
+            "path": "/Users/jerry/Projects/QuantConnect/Workspace/TQT/Sleepy Red Fish"
+        }
+    ],
+    "settings": {
+        "python.autoComplete.extraPaths": [
+            "/Users/jerry/Projects/QuantConnect/Workspace/TQT/Library"
+        ],
+        "python.analysis.extraPaths": [
+            "/Users/jerry/Projects/QuantConnect/Workspace/TQT/Library"
+        ],
+        "files.autoSave": "afterDelay",
+        "files.exclude": {
+            "**.vscode": true,
+            "**.idea": true,
+            "config.json": true,
+            "qc.code-workspace": true,
+            "bin": true,
+            "obj": true,
+            "backtests": true,
+            "live": true,
+            "optimizations": true,
+            "storage": true,
+            "report": true,
+            "__pycache__": true,
+            ".ipynb_checkpoints": true,
+            ".idea": true,
+            ".vscode": true
+        },
+        "files.watcherExclude": {
+            "bin/**": true,
+            "obj/**": true,
+            "backtests/**": true,
+            "live/**": true,
+            "optimizations/**": true,
+            "storage/**": true,
+            "report/**": true,
+            "__pycache__/**": true,
+            ".ipynb_checkpoints/**": true,
+            ".idea/**": true,
+            ".vscode/**": true
+        },
+        "files.readonlyInclude": {
+            "**/*.py": false,
+            "**/*.cs": false,
+            "**/*.ipynb": false,
+            "/Users/jerry/Projects/QuantConnect/Workspace/TQT/Sleepy Red Fish/**/*.py": false,
+            "/Users/jerry/Projects/QuantConnect/Workspace/TQT/Sleepy Red Fish/**/*.cs\"": false,
+            "/Users/jerry/Projects/QuantConnect/Workspace/TQT/Sleepy Red Fish/**/*.ipynb": false
+        }
+    }
+}
